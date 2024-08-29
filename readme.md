@@ -1,2 +1,2 @@
 Author: Jovoni Johnson
-Purpose: Assignment 2 for class
+Purpose: Assignment 3 for class

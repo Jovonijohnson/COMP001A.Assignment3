@@ -10,6 +10,10 @@ header  {
     font-size: xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+header nav{
+    list-style: none;
+    display: inline-block;
+}
 body {
     background-color: yellow
 }
